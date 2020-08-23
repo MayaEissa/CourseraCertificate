@@ -1,0 +1,27 @@
+h4 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+#header-nav {
+  background-color: darkgray;
+  border-radius: 0;
+  border: 0;
+  text-align: center;
+}
+
+.navbar-brand h1 {
+    color: black;
+    margin-top: 0;
+    margin-bottom: 5px;
+}.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.bottom {
+    margin-bottom: 5%;
+}
